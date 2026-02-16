@@ -1,13 +1,13 @@
 # 利用規約（Terms of Service）
 
-**タスコMap**
+**タコスMap**
 
 最終更新日：2025年2月11日
-アプリ名：タスコMap
+アプリ名：タコスMap
 
 ## 1. はじめに
 
-この利用規約（以下、「本規約」）は、タスコMap（以下、「本アプリ」）の利用条件を定めるものです。本アプリをご利用いただく前に、必ず本規約をお読みいただき、同意いただく必要があります。
+この利用規約（以下、「本規約」）は、タコスMap（以下、「本アプリ」）の利用条件を定めるものです。本アプリをご利用いただく前に、必ず本規約をお読みいただき、同意いただく必要があります。
 
 本アプリを利用することで、本規約に同意したものとみなされます。同意いただけない場合は、本アプリをご利用いただくことはできません。
 
@@ -150,14 +150,14 @@
 
 # Terms of Service
 
-**タスコMap**
+**TacoMap**
 
 Last Updated: February 11, 2025
-App Name: タスコMap
+App Name: TacoMap
 
 ## 1. Introduction
 
-These Terms of Service (hereinafter referred to as "these Terms") set forth the terms and conditions for using タスコMap (hereinafter referred to as "this App"). You must read and agree to these Terms before using this App.
+These Terms of Service (hereinafter referred to as "these Terms") set forth the terms and conditions for using TacoMap (hereinafter referred to as "this App"). You must read and agree to these Terms before using this App.
 
 By using this App, you are deemed to have agreed to these Terms. If you do not agree, you may not use this App.
 
