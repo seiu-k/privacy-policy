@@ -1,13 +1,13 @@
 # 利用規約（Terms of Service）
 
-**頭痛アラート（zutsuAlert）**
+**気圧アラート**
 
-最終更新日：2026年5月6日
-アプリ名：頭痛アラート（zutsuAlert）
+最終更新日：2026年8月8日
+アプリ名：気圧アラート
 
 ## 1. はじめに
 
-この利用規約（以下、「本規約」）は、頭痛アラート（以下、「本アプリ」）の利用条件を定めるものです。本アプリをご利用いただく前に、必ず本規約をお読みいただき、同意いただく必要があります。
+この利用規約（以下、「本規約」）は、気圧アラート（以下、「本アプリ」）の利用条件を定めるものです。本アプリをご利用いただく前に、必ず本規約をお読みいただき、同意いただく必要があります。
 
 本アプリを利用することで、本規約に同意したものとみなされます。同意いただけない場合は、本アプリをご利用いただくことはできません。
 
@@ -176,24 +176,25 @@
 ---
 
 **制定日**: 2026年5月6日
-**最終改訂日**: 2026年5月6日
+**最終改訂日**: 2026年8月8日
 
 ## 改訂履歴
 
+- **2026年8月8日**: アプリ名の表記を「気圧アラート」に統一
 - **2026年5月6日**: 初版制定
 
 ---
 
 # Terms of Service
 
-**zutsuAlert (Headache Alert)**
+**Pressure Alert（気圧アラート）**
 
-Last Updated: May 6, 2026
-App Name: zutsuAlert (Headache Alert)
+Last Updated: August 8, 2026
+App Name: Pressure Alert（気圧アラート）
 
 ## 1. Introduction
 
-These Terms of Service (hereinafter referred to as "these Terms") set forth the terms and conditions for using zutsuAlert (hereinafter referred to as "this App"). You must read and agree to these Terms before using this App.
+These Terms of Service (hereinafter referred to as "these Terms") set forth the terms and conditions for using Pressure Alert (hereinafter referred to as "this App"). You must read and agree to these Terms before using this App.
 
 By using this App, you are deemed to have agreed to these Terms. If you do not agree, you may not use this App.
 
@@ -362,8 +363,9 @@ If you have any questions about these Terms, please contact us at:
 ---
 
 **Established**: May 6, 2026
-**Last Revised**: May 6, 2026
+**Last Revised**: August 8, 2026
 
 ## Revision History
 
+- **August 8, 2026**: Unified the app name notation to 気圧アラート (Pressure Alert)
 - **May 6, 2026**: First edition established
