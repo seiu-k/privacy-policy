@@ -91,7 +91,8 @@ https://policies.google.com/privacy
 
 本ポリシーに関するお問い合わせは、下記までご連絡ください。
 
-info.mobileappsengine@gmail.com
+開発者：Seiu
+連絡先：info.mobileappsengine@gmail.com
 
 ---
 
@@ -115,4 +116,5 @@ Sodateru 2048 ("the app") is a puzzle game in which you merge number tiles, earn
 - **Deletion.** Data on your device is deleted when you delete the app. To request deletion of leaderboard data, contact the address below.
 - **Children.** The app is suitable for all ages and does not knowingly collect personally identifying information from children.
 
+Developer: Seiu
 Contact: info.mobileappsengine@gmail.com
