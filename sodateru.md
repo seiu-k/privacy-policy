@@ -1,13 +1,13 @@
 # プライバシーポリシー
 
-**そだてる2048**
+**2048｜ランキングで競う数字パズル**
 
 最終更新日：2026年10月4日
-アプリ名：そだてる2048(Sodateru 2048)
+アプリ名：2048｜ランキングで競う数字パズル(2048｜Ranking Number Puzzle)
 
 ## 1. はじめに
 
-このプライバシーポリシー(以下、「本ポリシー」)は、そだてる2048(以下、「本アプリ」)における利用者の情報の取り扱いについて定めるものです。
+このプライバシーポリシー(以下、「本ポリシー」)は、2048｜ランキングで競う数字パズル(以下、「本アプリ」)における利用者の情報の取り扱いについて定めるものです。
 
 本アプリは、数字のタイルを合体させて遊ぶパズルゲームです。遊ぶと経験値がたまり、スコアをランキングで競うことができます。
 
@@ -98,11 +98,11 @@ https://policies.google.com/privacy
 
 # Privacy Policy (English)
 
-**Sodateru 2048**
+**2048｜Ranking Number Puzzle**
 
 Last updated: October 4, 2026
 
-Sodateru 2048 ("the app") is a puzzle game in which you merge number tiles, earn experience points and compete on leaderboards.
+2048｜Ranking Number Puzzle ("the app") is a puzzle game in which you merge number tiles, earn experience points and compete on leaderboards.
 
 - **No account registration.** The app does not collect your email address, real name or phone number. To tell players apart on the leaderboards, the app uses Firebase Authentication (anonymous sign-in) to issue a random identifier for each installation. If you delete the app, the identifier changes and your previous leaderboard records cannot be carried over.
 - **Leaderboards.** Only if you choose a leaderboard name, the app sends the following to Cloud Firestore (Google LLC): the name you chose (up to 12 characters), your score, largest tile and level, a copy of your level, experience points and best scores, the anonymous identifier, and the time. Your name, score and level are **shown to other players**. Please do not use your real name. If you do not choose a name, none of this is sent, and the game remains fully playable.
