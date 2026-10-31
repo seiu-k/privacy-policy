@@ -170,7 +170,7 @@
 
 本規約に関するご質問やご不明な点がございましたら、以下のメールアドレスまでお問い合わせください。
 
-**メールアドレス**: seiu2323@gmail.com
+**メールアドレス**: info.mobileappsengine@gmail.com
 **運営者**: Seiu
 
 ---
@@ -356,7 +356,7 @@ Continued use of this App after changes constitutes acceptance of the revised Te
 
 If you have any questions about these Terms, please contact us at:
 
-**Email**: seiu2323@gmail.com
+**Email**: info.mobileappsengine@gmail.com
 **Operator**: Seiu
 
 ---

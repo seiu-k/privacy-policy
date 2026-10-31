@@ -80,6 +80,6 @@
 本ポリシーに関するお問い合わせは、以下までご連絡ください。
 
 開発者：Horikiri Seiu
-連絡先：seiu2323@gmail.com
+連絡先：info.mobileappsengine@gmail.com
 
 Google Meet、Google Chromeは、Google LLCの商標です。本アプリは、Google LLCが提供・承認するものではありません。

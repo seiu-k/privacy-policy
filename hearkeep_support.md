@@ -39,4 +39,4 @@ Mac上のオンライン会議の声を、そのMacの中だけで文字にし�
 ## お問い合わせ
 
 開発者：Horikiri Seiu
-連絡先：seiu2323@gmail.com
+連絡先：info.mobileappsengine@gmail.com

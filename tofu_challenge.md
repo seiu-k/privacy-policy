@@ -146,7 +146,7 @@
 
 ご不明な点がございましたら、以下のメールアドレスまでお問い合わせください。
 
-**メールアドレス**: seiu2323@gmail.com
+**メールアドレス**: info.mobileappsengine@gmail.com
 **運営者**: Seiu
 
 ---

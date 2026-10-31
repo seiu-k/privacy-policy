@@ -63,7 +63,7 @@
 
 本規約に関するお問い合わせは、以下までご連絡ください。
 
-**メールアドレス**: seiu2323@gmail.com
+**メールアドレス**: info.mobileappsengine@gmail.com
 **運営者**: Seiu
 
 ---

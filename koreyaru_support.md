@@ -34,7 +34,7 @@
 - データはアプリ専用の領域にある暗号化されたファイルに保存されます
 - 復号のための鍵は、このMacのキーチェーンに保管されます
 
-詳しくは[プライバシーポリシー](https://seiu-k.github.io/privacy-policy/koreyaru)をご覧ください。
+詳しくは[プライバシーポリシー](https://koreyaru-seiu.web.app/privacy/)をご覧ください。
 
 ## バックアップ
 
@@ -58,4 +58,4 @@ A. バックアップのJSONファイルを書き出せますが、読み込む�
 不具合の報告やご要望は、以下までご連絡ください。
 
 開発者：Horikiri Seiu
-連絡先：seiu2323@gmail.com
+連絡先：info.mobileappsengine@gmail.com
